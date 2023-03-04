@@ -1,1 +1,6 @@
-"# CursosRealizados" 
+# CursosRealizados
+
+| Certificado                                                                                                                                                                         | Insignia                                                                | Certificado                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [JavaScript Essentials<br />![1677973880670](image/README/1677973880670.png)](https://www.credly.com/badges/bc3e8c26-b39d-4701-9d78-de4565952d55/public_url "Certicado e insignia") | ![1677973723751](image/README/1677973723751.png "JS Essentials Course") | ![1677973609627](image/README/1677973609627.png "Certificaso del curso") |
+|                                                                                                                                                                                     |                                                                         |                                                                          |
